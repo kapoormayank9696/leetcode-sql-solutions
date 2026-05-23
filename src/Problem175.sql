@@ -1,4 +1,4 @@
--- Leetcode 175. Combine Two Tables
+-- Leetcode Problem 175. Combine Two Tables
 
 SELECT 
     firstName,
