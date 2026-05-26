@@ -125,7 +125,7 @@ LeetCode-SQL/
 
 # 👨‍💻 Author
 
-**Maya**  
+**Mayank **  
 Java Backend & DSA Learner  
 Passionate about Java, SQL, Spring Boot, and Problem Solving.
 
