@@ -1,16 +1,16 @@
 # 🗄️ LeetCode SQL Solutions
 
-This repository contains my solutions to various **LeetCode SQL problems** using **MySQL**.  
-The goal of this repository is to improve my understanding of:
+This repository contains my solutions to various **LeetCode SQL problems** using **MySQL**.
 
+The purpose of this repository is to strengthen my understanding of:
 - SQL Queries
 - Database Operations
-- Data Filtering
-- Joins
+- Joins & Relationships
 - Aggregations
 - Subqueries
-- Grouping & Sorting
-- Real-world Query Logic
+- Data Filtering
+- Query Optimization
+- Real-world Database Logic
 
 ---
 
@@ -60,12 +60,12 @@ The goal of this repository is to improve my understanding of:
 ---
 
 ## ✅ Subqueries
-- Nested Queries
+- Nested Subqueries
 - Correlated Subqueries
 
 ---
 
-## ✅ Advanced Concepts
+## ✅ Advanced SQL Concepts
 - CASE Statements
 - UNION / UNION ALL
 - EXISTS
@@ -77,6 +77,7 @@ The goal of this repository is to improve my understanding of:
 
 - MySQL
 - SQL
+- MySQL Workbench
 - LeetCode Online Judge
 
 ---
@@ -98,11 +99,11 @@ LeetCode-SQL/
 
 # 🎯 Goals
 
-- Practice SQL daily
-- Improve problem-solving skills
-- Strengthen database concepts
+- Practice SQL consistently
+- Improve database problem-solving skills
+- Strengthen backend development concepts
 - Prepare for coding interviews
-- Build strong backend development skills
+- Learn optimized query writing
 
 ---
 
@@ -118,15 +119,21 @@ LeetCode-SQL/
 
 - Add PostgreSQL solutions
 - Add query explanations
-- Add optimized solutions
-- Add interview-based SQL questions
+- Add optimized SQL approaches
+- Add interview-focused SQL questions
 
 ---
 
 # 👨‍💻 Author
 
-**Mayank Kapoor**  
-Java Backend & DSA Learner  
-Passionate about Java, SQL, Spring Boot, and Problem Solving.
+## Mayank Kapoor
+Java Backend & DSA Learner
+
+Passionate about:
+- Java Development
+- SQL & Database Design
+- Spring Boot
+- Backend Development
+- Problem Solving
 
 ---
