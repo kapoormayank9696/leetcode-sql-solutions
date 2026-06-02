@@ -86,13 +86,13 @@ The purpose of this repository is to strengthen my understanding of:
 
 ```bash
 LeetCode-SQL/
-│
-├── Basic_SQL/
-├── Joins/
-├── Aggregations/
-├── Subqueries/
-├── Advanced_SQL/
-└── README.md
+- │
+- ├── Basic_SQL/
+- ├── Joins/
+- ├── Aggregations/
+- ├── Subqueries/
+- ├── Advanced_SQL/
+- └── README.md
 ```
 
 ---
