@@ -16,7 +16,7 @@ The purpose of this repository is to strengthen my understanding of:
 
 # 🚀 Topics Covered
 
-## ✅ Basic SQL
+# ✅ Basic SQL
 - SELECT Statements
 - WHERE Clause
 - DISTINCT
