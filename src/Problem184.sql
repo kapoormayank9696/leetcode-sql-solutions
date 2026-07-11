@@ -1,4 +1,4 @@
-// LeetCode Problem 184 : Department Highest Salary
+-- LeetCode Problem 184 : Department Highest Salary
     
 SELECT
     d.name AS Department,
