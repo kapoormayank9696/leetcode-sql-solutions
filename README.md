@@ -76,6 +76,7 @@ The purpose of this repository is to strengthen my understanding of:
 # 🛠️ Technologies Used
 
 - MySQL
+- MySQL Workbench
 - SQL
 - MySQL Workbench
 - LeetCode Online Judge
