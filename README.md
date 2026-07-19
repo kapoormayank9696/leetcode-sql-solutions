@@ -127,7 +127,7 @@ LeetCode-SQL/
 
 # 👨‍💻 Author
 
-## Mayank Kapoor
+# Mayank Kapoor
 Java Backend & DSA Learner
 
 Passionate about:
