@@ -138,3 +138,5 @@ Passionate about:
 - Problem Solving
 
 ---
+
+# Thanks for watching 
