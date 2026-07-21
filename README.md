@@ -139,4 +139,8 @@ Passionate about:
 
 ---
 
+# 🚀 Happy Coding!
+
+---
+
 # Thanks for watching 
