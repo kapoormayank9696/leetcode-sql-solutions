@@ -86,6 +86,7 @@ The purpose of this repository is to strengthen my understanding of:
 # 📂 Repository Structure
 
 ```bash
+
 LeetCode-SQL/
 - │
 - ├── Basic_SQL/
@@ -94,6 +95,7 @@ LeetCode-SQL/
 - ├── Subqueries/
 - ├── Advanced_SQL/
 - └── README.md
+
 ```
 
 ---
